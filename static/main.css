@@ -1,0 +1,16 @@
+body.w3-container{  
+    background:blue;  
+    color:red;  
+    margin-top: 5px;  
+}  
+
+body.w3_todo{  
+    background:black;  
+    color:teal;  
+    margin-top: 5px;  
+} 
+
+.button{  
+    color:green;  
+}  
+.mark{font-size: 10px;} 
